@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>service_unavailable</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>service_unavailable_message</key>
+        <value>Service temporary unavailable</value>
+    </entry>
+</defaultsMap>
